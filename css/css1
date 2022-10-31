@@ -1,1 +1,6 @@
-
+  p {
+          
+            color: rgb(255,0,0);
+       
+            font: italic 700 16px "微软雅黑"
+        }
